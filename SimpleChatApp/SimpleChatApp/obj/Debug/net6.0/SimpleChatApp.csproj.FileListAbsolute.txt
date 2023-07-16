@@ -1,0 +1,15 @@
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\bin\Debug\net6.0\SimpleChatApp.exe
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\bin\Debug\net6.0\SimpleChatApp.deps.json
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\bin\Debug\net6.0\SimpleChatApp.runtimeconfig.json
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\bin\Debug\net6.0\SimpleChatApp.dll
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\bin\Debug\net6.0\SimpleChatApp.pdb
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\SimpleChatApp.csproj.AssemblyReference.cache
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\SimpleChatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\SimpleChatApp.AssemblyInfoInputs.cache
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\SimpleChatApp.AssemblyInfo.cs
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\SimpleChatApp.csproj.CoreCompileInputs.cache
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\SimpleChatApp.dll
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\refint\SimpleChatApp.dll
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\SimpleChatApp.pdb
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\SimpleChatApp.genruntimeconfig.cache
+D:\Documents\git\SimpleChatApp\SimpleChatApp\SimpleChatApp\obj\Debug\net6.0\ref\SimpleChatApp.dll
